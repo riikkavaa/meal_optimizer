@@ -1,0 +1,336 @@
+{
+    "day0": {
+        "0": {
+            "id": 11507,
+            "name": "Rice Starch",
+            "portion": 0.02884152
+        },
+        "1": {
+            "id": 1375,
+            "name": "Rice And Rye Mix, Boiled, Salt",
+            "portion": 4.9150586
+        },
+        "2": {
+            "id": 1541,
+            "name": "Millet Porridge, Water, Salt",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 1566,
+            "name": "Rice Porridge, Water, Without Salt",
+            "portion": 5.0
+        },
+        "4": {
+            "id": 33168,
+            "name": "Cheese, Semi-Hard Cheese, 10% Fat, Valio Polar",
+            "portion": 0.93779522
+        },
+        "5": {
+            "id": 33334,
+            "name": "Sport Beverage, Protein Drink, Pro Fx Zero Carb",
+            "portion": 5.0
+        },
+        "6": {
+            "id": 33376,
+            "name": "Sport Beverage, Protein Drink, Average Of Products",
+            "portion": 5.0
+        },
+        "7": {
+            "id": 34783,
+            "name": "Cocoa, Hot Chocolate, Sugar-Free, Water",
+            "portion": 5.0
+        },
+        "8": {
+            "id": 35275,
+            "name": "Barley Porridge, Pearl Barley, Water, Without Salt",
+            "portion": 0.69503427
+        },
+        "9": {
+            "id": 857,
+            "name": "Fish, Fatty, Smoked",
+            "portion": 1.3014929
+        }
+    },
+    "day1": {
+        "0": {
+            "id": 11733,
+            "name": "White Bread, Wheat Roll, Water",
+            "portion": 1.3680541
+        },
+        "1": {
+            "id": 1511,
+            "name": "Oat Gruel, Oat Flakes, Water, Salt",
+            "portion": 5.0
+        },
+        "2": {
+            "id": 1560,
+            "name": "Rice, Long-Grain, Boiled, Meat Bouillon",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 29684,
+            "name": "Cod, Boiled Without Salt",
+            "portion": 0.97427524
+        },
+        "4": {
+            "id": 30924,
+            "name": "Maize Porridge, Polenta",
+            "portion": 3.4799265
+        },
+        "5": {
+            "id": 31681,
+            "name": "Psyllium Husks",
+            "portion": 0.087429084
+        },
+        "6": {
+            "id": 32350,
+            "name": "Vegetable Fat Spread 38%, Becel Light Olive",
+            "portion": 0.2739869
+        },
+        "7": {
+            "id": 34180,
+            "name": "Chicken Drumstick With Skin, Raw",
+            "portion": 5.0
+        }
+    },
+    "day2": {
+        "0": {
+            "id": 11507,
+            "name": "Rice Starch",
+            "portion": 0.02884152
+        },
+        "1": {
+            "id": 1375,
+            "name": "Rice And Rye Mix, Boiled, Salt",
+            "portion": 4.9150586
+        },
+        "2": {
+            "id": 1541,
+            "name": "Millet Porridge, Water, Salt",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 1566,
+            "name": "Rice Porridge, Water, Without Salt",
+            "portion": 5.0
+        },
+        "4": {
+            "id": 33168,
+            "name": "Cheese, Semi-Hard Cheese, 10% Fat, Valio Polar",
+            "portion": 0.93779522
+        },
+        "5": {
+            "id": 33334,
+            "name": "Sport Beverage, Protein Drink, Pro Fx Zero Carb",
+            "portion": 5.0
+        },
+        "6": {
+            "id": 33376,
+            "name": "Sport Beverage, Protein Drink, Average Of Products",
+            "portion": 5.0
+        },
+        "7": {
+            "id": 34783,
+            "name": "Cocoa, Hot Chocolate, Sugar-Free, Water",
+            "portion": 5.0
+        },
+        "8": {
+            "id": 35275,
+            "name": "Barley Porridge, Pearl Barley, Water, Without Salt",
+            "portion": 0.69503427
+        },
+        "9": {
+            "id": 857,
+            "name": "Fish, Fatty, Smoked",
+            "portion": 1.3014929
+        }
+    },
+    "day3": {
+        "0": {
+            "id": 11733,
+            "name": "White Bread, Wheat Roll, Water",
+            "portion": 1.3680541
+        },
+        "1": {
+            "id": 1511,
+            "name": "Oat Gruel, Oat Flakes, Water, Salt",
+            "portion": 5.0
+        },
+        "2": {
+            "id": 1560,
+            "name": "Rice, Long-Grain, Boiled, Meat Bouillon",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 29684,
+            "name": "Cod, Boiled Without Salt",
+            "portion": 0.97427524
+        },
+        "4": {
+            "id": 30924,
+            "name": "Maize Porridge, Polenta",
+            "portion": 3.4799265
+        },
+        "5": {
+            "id": 31681,
+            "name": "Psyllium Husks",
+            "portion": 0.087429084
+        },
+        "6": {
+            "id": 32350,
+            "name": "Vegetable Fat Spread 38%, Becel Light Olive",
+            "portion": 0.2739869
+        },
+        "7": {
+            "id": 34180,
+            "name": "Chicken Drumstick With Skin, Raw",
+            "portion": 5.0
+        }
+    },
+    "day4": {
+        "0": {
+            "id": 11507,
+            "name": "Rice Starch",
+            "portion": 0.02884152
+        },
+        "1": {
+            "id": 1375,
+            "name": "Rice And Rye Mix, Boiled, Salt",
+            "portion": 4.9150586
+        },
+        "2": {
+            "id": 1541,
+            "name": "Millet Porridge, Water, Salt",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 1566,
+            "name": "Rice Porridge, Water, Without Salt",
+            "portion": 5.0
+        },
+        "4": {
+            "id": 33168,
+            "name": "Cheese, Semi-Hard Cheese, 10% Fat, Valio Polar",
+            "portion": 0.93779522
+        },
+        "5": {
+            "id": 33334,
+            "name": "Sport Beverage, Protein Drink, Pro Fx Zero Carb",
+            "portion": 5.0
+        },
+        "6": {
+            "id": 33376,
+            "name": "Sport Beverage, Protein Drink, Average Of Products",
+            "portion": 5.0
+        },
+        "7": {
+            "id": 34783,
+            "name": "Cocoa, Hot Chocolate, Sugar-Free, Water",
+            "portion": 5.0
+        },
+        "8": {
+            "id": 35275,
+            "name": "Barley Porridge, Pearl Barley, Water, Without Salt",
+            "portion": 0.69503427
+        },
+        "9": {
+            "id": 857,
+            "name": "Fish, Fatty, Smoked",
+            "portion": 1.3014929
+        }
+    },
+    "day5": {
+        "0": {
+            "id": 11733,
+            "name": "White Bread, Wheat Roll, Water",
+            "portion": 1.3680541
+        },
+        "1": {
+            "id": 1511,
+            "name": "Oat Gruel, Oat Flakes, Water, Salt",
+            "portion": 5.0
+        },
+        "2": {
+            "id": 1560,
+            "name": "Rice, Long-Grain, Boiled, Meat Bouillon",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 29684,
+            "name": "Cod, Boiled Without Salt",
+            "portion": 0.97427524
+        },
+        "4": {
+            "id": 30924,
+            "name": "Maize Porridge, Polenta",
+            "portion": 3.4799265
+        },
+        "5": {
+            "id": 31681,
+            "name": "Psyllium Husks",
+            "portion": 0.087429084
+        },
+        "6": {
+            "id": 32350,
+            "name": "Vegetable Fat Spread 38%, Becel Light Olive",
+            "portion": 0.2739869
+        },
+        "7": {
+            "id": 34180,
+            "name": "Chicken Drumstick With Skin, Raw",
+            "portion": 5.0
+        }
+    },
+    "day6": {
+        "0": {
+            "id": 11507,
+            "name": "Rice Starch",
+            "portion": 0.02884152
+        },
+        "1": {
+            "id": 1375,
+            "name": "Rice And Rye Mix, Boiled, Salt",
+            "portion": 4.9150586
+        },
+        "2": {
+            "id": 1541,
+            "name": "Millet Porridge, Water, Salt",
+            "portion": 5.0
+        },
+        "3": {
+            "id": 1566,
+            "name": "Rice Porridge, Water, Without Salt",
+            "portion": 5.0
+        },
+        "4": {
+            "id": 33168,
+            "name": "Cheese, Semi-Hard Cheese, 10% Fat, Valio Polar",
+            "portion": 0.93779522
+        },
+        "5": {
+            "id": 33334,
+            "name": "Sport Beverage, Protein Drink, Pro Fx Zero Carb",
+            "portion": 5.0
+        },
+        "6": {
+            "id": 33376,
+            "name": "Sport Beverage, Protein Drink, Average Of Products",
+            "portion": 5.0
+        },
+        "7": {
+            "id": 34783,
+            "name": "Cocoa, Hot Chocolate, Sugar-Free, Water",
+            "portion": 5.0
+        },
+        "8": {
+            "id": 35275,
+            "name": "Barley Porridge, Pearl Barley, Water, Without Salt",
+            "portion": 0.69503427
+        },
+        "9": {
+            "id": 857,
+            "name": "Fish, Fatty, Smoked",
+            "portion": 1.3014929
+        }
+    }
+}
